@@ -1,6 +1,6 @@
-# Yertay Yergazy 👋
+# Yertay Yergazy 
 
-👨‍💻 **Backend  / Frontend Developer**  
+ **Backend  / Frontend Developer**  
 📍 Almaty, Kazakhstan  
 🎓 B.Sc. in Information Systems, KBTU (2023–2027)
 
