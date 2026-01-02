@@ -6,7 +6,7 @@
 
 ---
 
-## ⚡ Tech Stack
+##  Tech Stack
 
 **Languages:**  
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)  
@@ -28,7 +28,7 @@
 ---
 
 
-## 📫 Contacts
+## Contacts
 
 - Email: [ertaiergazy04@gmail.com](mailto:ertaiergazy04@gmail.com)  
 - LinkedIn: [www.linkedin.com/in/yertay-yergazy](www.linkedin.com/in/yertay-yergazy)  
