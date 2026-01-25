@@ -31,5 +31,5 @@
 ## Contacts
 
 - Email: [ertaiergazy04@gmail.com](mailto:ertaiergazy04@gmail.com)  
-- LinkedIn: [www.linkedin.com/in/yertay-yergazy](www.linkedin.com/in/yertay-yergazy)  
+- LinkedIn: [www.linkedin.com/in/Yertay-Yergazy](www.linkedin.com/in/yertay-yergazy)  
 - GitHub: [github.com/Yertay-Yergazy](https://github.com/Yertay-Yergazy)  
