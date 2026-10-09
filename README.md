@@ -1,7 +1,7 @@
 # Yertay Yergazy
 ### Backend Developer (Go) · Node.js & Frontend as a Plus
 
-📍 Almaty, Kazakhstan · 🎓 B.Sc. Information Systems, KBTU (2023–2027)
+📍 Almaty, Kazakhstan · 🎓 B.Sc. Information Systems, KBTU
 
 [![Email](https://img.shields.io/badge/Email-ertaiergazy04@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:ertaiergazy04@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Yertay_Yergazy-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yertay-yergazy)
